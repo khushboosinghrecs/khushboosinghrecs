@@ -35,9 +35,6 @@
 <a href="mailto:khushboo.singhhjs@gmail.com">
   <img height="35" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
 </a> 
-<a href="https://www.instagram.com/khushboosingh440">
-  <img height="35" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
 <a href="https://www.linkedin.com/in/khushboosingh2/">
   <img height="35" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
