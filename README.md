@@ -36,10 +36,6 @@
 
 ##
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=khushboosinghrecs&show_icons=true&locale=en&layout=compact&theme=radical" height=180 />
-<p>
-
 ##
 
 
