@@ -7,14 +7,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C97F7&center=true&vCenter=true&width=435&lines=Frontend+Focused+Full+Stack+Developer;UI%2FUX+Enthusiast;Building+Scalable+Web+Apps;Modern+Web+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C97F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Building+Scalable+Web+Apps;Modern+Web+Technologies" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a passionate **frontend-focused Full Stack Developer** with expertise in building scalable web applications. I love creating seamless user experiences and robust backend systems. Currently exploring advanced frontend architectures, backend development, and cloud technologies.
+I'm a passionate **Full Stack Developer** with expertise in building scalable web applications. I love creating seamless user experiences and robust backend systems. Currently exploring advanced frontend architectures, backend development, and cloud technologies.
 
 ---
 
