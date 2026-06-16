@@ -7,14 +7,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C97F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Building+Scalable+Web+Apps;Modern+Web+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C97F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+AI+Enthusiast;UI%2FUX+Enthusiast;Building+Scalable+Web+Apps;Modern+Web+Technologies" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I’m a passionate **Full Stack Developer** with 4+ years of experience building scalable, high-performance web applications. I enjoy creating seamless user experiences and architecting robust application systems using modern technologies like React.js, Next.js, TypeScript, Node.js, and Express.js. I have experience designing scalable APIs, optimizing application performance, and building reusable, maintainable solutions. Currently, I’m exploring advanced frontend architectures, System Design, distributed systems, cloud technologies, and scalable backend development to build efficient and reliable products.
+I’m a passionate **Full Stack Developer** with 4+ years of experience building scalable, high-performance web applications. I enjoy creating seamless user experiences and architecting robust application systems using modern technologies like React.js, Next.js, TypeScript, Node.js, and Express.js. I have experience designing scalable APIs, optimizing application performance, and building reusable, maintainable solutions. Currently, I’m exploring advanced frontend architectures, System Design, distributed systems, cloud technologies, scalable backend development and AI to build efficient and reliable products.
 
 
 ---
