@@ -14,7 +14,7 @@
 
 ## 👩‍💻 About Me
 
-I’m a passionate **Full Stack Developer** with 4+ years of experience building scalable, high-performance web applications. I enjoy creating seamless user experiences and architecting robust application systems using modern technologies like React.js, Next.js, TypeScript, Node.js, and Express.js. I have experience designing scalable APIs, optimizing application performance, and building reusable, maintainable solutions. Currently, I’m exploring advanced frontend architectures, System Design, distributed systems, cloud technologies, scalable backend development and AI to build efficient and reliable products.
+I’m a passionate **Full Stack Developer** with AI Enthusiast with 4+ years of experience building scalable, high-performance web applications. I enjoy creating seamless user experiences and architecting robust application systems using modern technologies like React.js, Next.js, TypeScript, Node.js, and Express.js. I have experience designing scalable APIs, optimizing application performance, and building reusable, maintainable solutions. Currently, I’m exploring advanced frontend architectures, System Design, distributed systems, cloud technologies, scalable backend development to build efficient and reliable products.
 
 
 ---
